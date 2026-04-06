@@ -2,10 +2,10 @@ package com.example;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!"); //comment
+        System.out.println("Hello, students!"); //comment
     }
 
     public String getGreeting() {
-        return "Bello, World!";
+        return "Hello, World!";
     }
 }
